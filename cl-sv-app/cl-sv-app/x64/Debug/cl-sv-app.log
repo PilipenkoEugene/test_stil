@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\Pilipenko Eugene\Desktop\cl-sv-app\cl-sv-app\main.cpp(55,12): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  cl-sv-app.vcxproj -> C:\Users\Pilipenko Eugene\Desktop\cl-sv-app\x64\Debug\cl-sv-app.exe
